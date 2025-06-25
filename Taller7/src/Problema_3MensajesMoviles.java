@@ -10,7 +10,7 @@
  * sobre su nombre. Además, los métodos enviarMensaje y visualizarMensaje deben estar definidos.
 Note
  *Para probar el diseño jerarquico de clases, instancia en el clase de prueba Ejecutor, con datos ficticios.
- * @author franc
+ * @author Francis Tapia
  */
 
 public class Problema_3MensajesMoviles {

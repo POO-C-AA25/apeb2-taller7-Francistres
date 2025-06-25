@@ -28,7 +28,7 @@ public class Problema1_CapituloLibro {
         Parrafo parrafo1 = new Parrafo();
         parrafo1.sentencias.add(sentencia1);
         
-        Figura figura1 = new Figura("imagen1.png"); // Sin leyenda
+        Figura figura1 = new Figura("imagen1.png");
         
         Seccion seccion1 = new Seccion("Introducción");
         seccion1.elementos.add(parrafo1);
