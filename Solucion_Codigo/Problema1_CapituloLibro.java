@@ -34,7 +34,7 @@ public class Problema1_CapituloLibro {
         seccion1.elementos.add(parrafo1);
         seccion1.elementos.add(figura1);
         
-        Capitulo capitulo1 = new Capitulo("Capítulo 1");
+        Capitulo capitulo1 = new Capitulo("Capitulo 1");
         capitulo1.secciones.add(seccion1);
         
         System.out.println(capitulo1);
